@@ -9,7 +9,7 @@ This project is driven using [Maven][mvn].ff
 
 [mvn]: https://maven.apache.org/ (Maven)
 
-### Run locally
+### Run locallyf
 
 You can run the service locally using the following from the command:
 
